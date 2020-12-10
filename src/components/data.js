@@ -47,9 +47,6 @@ class data extends Component {
                         <td>{item.homeTeamScore}</td>
                         <td>{item.awayTeamScore}</td>
                         <td>{item.league}</td>
-                        <td>
-                            <a href="https://www.google.com">google</a>
-                        </td>
                     </tr>)}
                 </table> : <div>person</div>}
             </div>
